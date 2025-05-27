@@ -14,7 +14,6 @@ The dataset was sourced from Kaggle and manually cleaned in Excel.
 ## Skills Demonstrated
 - Data cleaning and structuring in Excel  
 - PivotTable and PivotChart creation  
-- Use of slicers for interactivity  
 - Descriptive analytics and insight generation  
 - Dashboard design and layout optimization  
 - Clear communication of findings through written summaries
