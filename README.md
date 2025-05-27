@@ -19,7 +19,7 @@ The dataset was sourced from Kaggle and manually cleaned in Excel.
 - Dashboard design and layout optimization  
 - Clear communication of findings through written summaries
 - ## why it matters
-  The project explores how excel can be used to explore and communicate data insight
+  The project shows how excel can be used to explore and communicate data insight
   ##Author
   **Ogbodo Cynthia Amarachukwu**
   Entry Level Data Analyst | Patoranking Foundation Schola| Master’s Student in Public Health | Aspiring PhD Researcher in Social Work 
